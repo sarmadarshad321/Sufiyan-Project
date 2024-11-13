@@ -1,0 +1,19 @@
+.container{
+    border: 3px solid black;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.form-label{
+    font-size: 30px;
+}
+h6{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+a{
+    margin-top: 10px;
+    margin-left: 50px;
+}
